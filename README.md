@@ -35,3 +35,8 @@ terraform init && terraform validate
 | `tests/smoke/` | Post-deploy smoke tests |
 
 
+grafana dashboard
+
+<img width="2560" height="857" alt="image" src="https://github.com/user-attachments/assets/19745b76-0b04-470b-a58f-5194af76a3bf" />
+
+
